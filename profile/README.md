@@ -1,13 +1,7 @@
 <div align="center">
 
 <!-- Autoplay, looped, muted demo video -->
-<a href="https://github.com/OpenCivil-Project/.github/raw/main/profile/Home1.mp4">
-  <img src="https://github.com/OpenCivil-Project/OpenCivil/raw/main/images/hero-main.png"
-       alt="▶ Click to watch OpenCivil demo" width="100%"/>
-</a>
-
-> 🎬 **[▶ Watch the demo video](https://github.com/OpenCivil-Project/.github/raw/main/profile/Home1.mp4)**
-
+<img src="https://github.com/OpenCivil-Project/.github/raw/main/profile/Home1.gif" width="100%"/>
 <br/>
 
 # 🏗️ OpenCivil Project
