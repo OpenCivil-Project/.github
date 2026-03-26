@@ -4,7 +4,7 @@
 
 <br/>
 
-# 🏗️ OpenCivil Project
+# OpenCivil 
 
 ### *A Transparent 3D Structural Analysis Engine for Learning Finite Element Methods*
 
