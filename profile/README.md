@@ -4,7 +4,7 @@
 <img src="https://github.com/OpenCivil-Project/.github/raw/main/profile/Home1.gif" width="100%"/>
 <br/>
 
-# 🏗️ OpenCivil Project
+# OpenCivil Project
 
 ### *A Transparent 3D Structural Analysis Engine for Learning Finite Element Methods*
 
