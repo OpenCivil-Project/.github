@@ -4,7 +4,7 @@
 <img src="https://github.com/OpenCivil-Project/.github/raw/main/profile/Home1.gif" width="100%"/>
 <br/>
 
-# OpenCivil Project
+# Open//Structures
 
 ### *A Transparent 3D Structural Analysis Engine for Learning Finite Element Methods*
 
@@ -19,9 +19,9 @@
 
 ---
 
-## 👋 Welcome to the OpenCivil Project
+## 👋 Welcome to the Open//Structures Project
 
-**OpenCivil** bridges the gap between simplified 2D textbook problems and complex commercial "black box" software. Instead of hiding the math, OpenCivil shows you every matrix, every transformation, every step — while delivering results validated to **6–7 decimal place accuracy** against industry-standard commercial FEM tools like SAP2000.
+**Open//Structures** bridges the gap between simplified 2D textbook problems and complex commercial "black box" software. Instead of hiding the math, OpenCivil shows you every matrix, every transformation, every step — while delivering results validated to **6–7 decimal place accuracy** against industry-standard commercial FEM tools like SAP2000.
 
 > *"Not just a solver — a window into the mathematics of structural engineering."*
 
@@ -69,7 +69,7 @@ Full visibility into 12×12 stiffness matrices, transformation matrices, and fix
 
 ### 🖥️ Dual Interface: GUI + Terminal
 
-OpenCivil ships with two ways to work — use them together or separately:
+Open//Structures ships with two ways to work — use them together or separately:
 
 **Visual GUI** — PyQt6 / OpenGL desktop application  
 Click-to-model, animated deformed shapes, 3D stress contours, matrix inspector, free body diagrams.
@@ -91,7 +91,7 @@ OC> solve
 
 **Python API** — install separately via pip for scripted / headless batch analysis:
 ```bash
-pip install opencivil
+pip install openstructures
 ```
 
 ---
@@ -110,9 +110,9 @@ pip install opencivil
 
 **Students** — Inspect the math powering commercial software. Verify hand calculations against a proven-correct solver. Export stiffness matrices to MATLAB or Python for homework.
 
-**Educators** — Use real 3D problems instead of simplified 2D examples. Use OpenCivil as a validated teaching companion to SAP2000 or ETABS. Completely free.
+**Educators** — Use real 3D problems instead of simplified 2D examples. Use Open//Structures as a validated teaching companion to SAP2000 or ETABS. Completely free.
 
-**Researchers** — Export human-readable JSON project files. Use the `pip install opencivil` Python API for batch analysis pipelines.
+**Researchers** — Export human-readable JSON project files. Use the `pip install openstructures` Python API for batch analysis pipelines.
 
 ---
 
